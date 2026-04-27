@@ -221,6 +221,10 @@ Projeto desenvolvido como **atividade avaliativa da segunda nota**, com foco em 
 * Design de interface
 * Publicação de sites
 
+#LEVANTAMENTO DE REQUISITOS COM O CLIENTE
+[Trabalho Prova 2.pdf](https://github.com/user-attachments/files/27110456/Trabalho.Prova.2.pdf)
+
+
 #  COMPROVANTE DE VENDA DO SITE
 
 [Comprovante_26-04-2026_203954.pdf](https://github.com/user-attachments/files/27110437/Comprovante_26-04-2026_203954.pdf)
