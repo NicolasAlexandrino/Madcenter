@@ -221,7 +221,7 @@ Projeto desenvolvido como **atividade avaliativa da segunda nota**, com foco em 
 * Design de interface
 * Publicação de sites
 
-#LEVANTAMENTO DE REQUISITOS COM O CLIENTE
+# LEVANTAMENTO DE REQUISITOS COM O CLIENTE
 [Trabalho Prova 2.pdf](https://github.com/user-attachments/files/27110456/Trabalho.Prova.2.pdf)
 
 
